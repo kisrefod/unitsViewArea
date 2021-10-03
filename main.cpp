@@ -20,6 +20,7 @@
 #include "objects.h"
 
 void errorMsg(const string& msg) {
+    cout << "Ошибка: " <<  msg << endl;
     ofstream fout ("error.txt");
     fout << "Ошибка: " <<  msg << endl;
     system("pause");
