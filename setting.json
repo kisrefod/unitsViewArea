@@ -1,0 +1,41 @@
+{
+	"Vision": {
+		"angle": 135.5,
+		"distance": 2
+	},
+	"Units": [
+		{
+			"name": "Юнит1",
+			"position": {
+				"x": 1,
+				"y": 1
+			},
+			"viewDirection": {
+				"x": 0,
+				"y": 1
+			}
+		},
+		{
+			"name": "Юнит2",
+			"position": {
+				"x": 1,
+				"y": 2
+			},
+			"viewDirection": {
+				"x": 1,
+				"y": 0
+			}
+		},
+		{
+			"name": "Юнит3",
+			"position": {
+				"x": -5,
+				"y": -1
+			},
+			"viewDirection": {
+				"x": 0.707,
+				"y": 0.707
+			}
+		}
+	]
+}
