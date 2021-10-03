@@ -5,7 +5,7 @@
 {
 	"Vision": {
 		"viewAngle": 185.5,
-		"distance": 7
+		"distance": 2
 	},
 	"Units": [
 		{
