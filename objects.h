@@ -1,3 +1,7 @@
+#pragma once
+
+#include "include/kdtree.h"
+
 using namespace std;
 
 using Json = nlohmann::json;
